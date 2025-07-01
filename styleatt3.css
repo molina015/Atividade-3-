@@ -1,0 +1,34 @@
+body
+{
+    color: #6A3937
+}
+h1
+{
+    text-align: center; 
+    background-color: rgba(153, 88, 88, 0.486);
+}
+html
+{
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: large;
+}
+.foto_da_banda
+{
+    display: flex;
+    text-align: center;
+    margin: auto;
+}
+.texto 
+{
+    margin-left: 2%;
+}
+header
+{
+    background-color: rgba(153, 88, 88, 0.486);
+}
+nav
+{
+    text-align: center;
+}
